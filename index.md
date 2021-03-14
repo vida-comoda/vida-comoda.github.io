@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+### ビーダコモダ（vida comoda）はスペイン語で『快適な生活』。
+### ビーダコモダ は 快適な生活 をサポートします。
+==============================================================
 
-You can use the [editor on GitHub](https://github.com/vida-comoda/vida-comoda.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### ビーダコモダの提供しているアプリ
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### ・藤沢らくらく分別ごみ
+#### ・茅ヶ崎らくらく分別ごみ
 
-### Markdown
+===============================================================
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ■ビーダコモダのプライバシーポリシー
 
-```markdown
-Syntax highlighted code block
+### [利用者情報の取得]
+#### 本アプリが利用者の個人情報を取得することはありません。
 
-# Header 1
-## Header 2
-### Header 3
+### [利用者情報の利用]
+#### 本アプリが利用者の個人情報を利用することはありません。
 
-- Bulleted
-- List
+### [利用者情報の第三者提供]
+#### 本アプリが利用者の個人情報を第三者に提供することはありません。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vida-comoda/vida-comoda.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### [お問い合わせ先]
+#### 何かご不明なことがございましたら下記へお問い合わせください。
+### vida.comoda.office@gmail.com
